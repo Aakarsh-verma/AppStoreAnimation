@@ -8,7 +8,6 @@ A sample Project copying the animation that occurs on banner clicks in App Store
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Check it out yourself](#check-it-out-yourself)
-- [Usage](#usage)
 - [Acknowledgments](#acknowledgments)
 
 ## Preview
