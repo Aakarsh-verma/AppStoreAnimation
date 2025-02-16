@@ -13,7 +13,7 @@ A sample Project copying the animation that occurs on banner clicks in App Store
 
 ## Preview
 
-<img src="assets/dashboard.png" alt="dashboard" width="300" height="650">  <img src="assets/hero.gif" alt="Hero" width="300" height="650">
+<img src="assets/dashboard.png" alt="dashboard" width="300" height="650">  <img src="assets/hero.png" alt="Hero" width="300" height="650">
 
 ## Getting Started
 
